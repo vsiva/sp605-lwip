@@ -1,0 +1,5 @@
+#
+#Tue May 25 15:49:41 PDT 2010
+PROCESSOR=microblaze_0
+REPOSITORIES=-lp C\:/eda/Xilinx/repo
+HWSPEC=../hw_sp605/system.xml
